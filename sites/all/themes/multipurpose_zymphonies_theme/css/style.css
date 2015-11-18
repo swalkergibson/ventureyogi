@@ -1898,3 +1898,18 @@ div.warning {
 .view-gallery .views-row img{
 	display: block;
 }
+
+/*
+ * Custom styles
+*/
+
+#front-welcome{
+    background: #005a68;
+}
+
+#front-welcome h1{
+    color: #ffffff;
+    font-size: 2em;
+    line-height: 1.5em;
+    margin: 3%;
+}

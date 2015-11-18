@@ -127,6 +127,9 @@
   <?php endif; ?>
 
   <div id="container">
+    <?php if ($is_front && $page['front_welcome']) : ?>
+      <section id="front-welcome"><?php print render($page['front_welcome']) ?></section>
+    <?php endif; ?>
     <div class="container-wrap">
       <div class="content-sidebar-wrap">
         <div id="content">
