@@ -95,6 +95,9 @@
             <?php $main_menu_tree = menu_tree(variable_get('menu_main_links_source', 'main-menu'));
               print drupal_render($main_menu_tree);
             ?>
+            <?php $user_menu_tree = menu_tree(variable_get('menu_user_links_source', 'user-menu'));
+              print drupal_render($user_menu_tree);
+            ?>
           </div>
           <div class="clear"></div>
         </nav>
