@@ -92,11 +92,8 @@
         <nav id="main-menu"  role="navigation">
           <a class="nav-toggle" href="#">Navigation</a>
           <div class="menu-navigation-container">
-            <?php $main_menu_tree = menu_tree(variable_get('menu_main_links_source', 'main-menu'));
+            <?php $main_menu_tree = menu_tree(variable_get('menu_main_links_source', 'main-menu')) + menu_tree(variable_get('menu_user_links_source', 'user-menu'));
               print drupal_render($main_menu_tree);
-            ?>
-            <?php $user_menu_tree = menu_tree(variable_get('menu_user_links_source', 'user-menu'));
-              print drupal_render($user_menu_tree);
             ?>
           </div>
           <div class="clear"></div>
