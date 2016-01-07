@@ -1913,3 +1913,8 @@ div.warning {
     line-height: 1.5em;
     margin: 3%;
 }
+
+.home-images > img {
+    vertical-align: top;
+    width: 33%;
+}

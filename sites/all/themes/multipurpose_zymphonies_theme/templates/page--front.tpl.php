@@ -162,6 +162,12 @@
             <p>I teach in the most traditional form of yoga, Hatha yoga. As we travel through the physical body, we will bring in pranayama, breath work, to start our inward journey. This allows us the time to build this mind- body connection. It is part of the 8 limbs of yoga to create the stepping stones to free the mind and to reach the ultimate Bliss.</p>
 
             <p>Why not take the next step and take a private class by THE VENTURE YOGI? I will come to your home and provide blocks, blankets, and straps for the yoga class that caters to your needs. Please contact me for more information in regards to prices and different packages I offer.</p>
+
+            <div class='home-images'>
+                <img src='/sites/default/files/home_left.jpg' />
+                <img src='/sites/default/files/home_middle.jpg' />
+                <img src='/sites/default/files/home_right.jpg' />
+            </div>
           </section>
         </div>
       
