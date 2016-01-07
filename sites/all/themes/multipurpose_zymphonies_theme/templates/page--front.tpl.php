@@ -155,13 +155,7 @@
               <ul class="action-links"><?php print render($action_links); ?></ul>
             <?php endif; ?>
             <h1>Begin your Venture of Yoga</h1>
-            <p>Through the practice of physical asana, I will help you to invigorate the mind, body and soul. Having a private teacher will help the student stay focused on their practice and find this VENTURE of yoga.</p>
-
-            <p>During the physical practice we will first learn alignment. As we break down the poses, we will begin to link the poses together to begin the flow of yoga. This will help the student find the correct position and modify as needed to prevent injury. My goal is to create a safe, but fun, learning environment to help achieve the best possible version of you. Through the practice we will dissect over 100 poses and find a therapeutic approach to remove any aches and pains. I provide handouts, and further instruction as we continue the journey.</p>
-
-            <p>I teach in the most traditional form of yoga, Hatha yoga. As we travel through the physical body, we will bring in pranayama, breath work, to start our inward journey. This allows us the time to build this mind- body connection. It is part of the 8 limbs of yoga to create the stepping stones to free the mind and to reach the ultimate Bliss.</p>
-
-            <p>Why not take the next step and take a private class by THE VENTURE YOGI? I will come to your home and provide blocks, blankets, and straps for the yoga class that caters to your needs. Please contact me for more information in regards to prices and different packages I offer.</p>
+            <p>To be a venture yogi is to find the adventure in everyday life. To enlighten, empower, and enrich the lives around you. To be a venture yogi strive for positivity and create a healthy lifestyle. This website will provide tips, inspiration, and recipes for a healthier you. Please explore the blog and take the plunge to be a Venture Yogi. Come join the venture yogi team and subscribe to receive a monthly newsletter featuring inspiring quotes, fitness tips, adventure, and yoga.</p>
 
             <div class='home-images'>
                 <img src='/sites/default/files/home_left.jpg' />
